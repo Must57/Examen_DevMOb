@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "examenApp",
+    "slug": "examenApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
