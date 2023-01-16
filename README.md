@@ -20,5 +20,7 @@ Merci d'indiquer et de décrire ici, si besoin, les fonctionnalités supplément
 ## Remarques éventuelles
 
 Merci d'indiquer sur quel appareil vous avez testé votre application (mobile Android, tablette iPad, émulateur etc...).
+Émulateur Android
+
 
 Ajouter vos remarques supplémentaires ici, si besoin.
